@@ -51,6 +51,6 @@ Through this project, I learned:
 ##  Author
 
 **Deva Tejaswi Jupudi**  
-_B.Tech – CSE (AI) Student_
+_B.Tech – CSE (AI)_
 
 ---
