@@ -51,6 +51,6 @@ Through this project, I learned:
 ##  Author
 
 **Deva Tejaswi Jupudi**  
-_B.Tech Student | Aspiring AI/ML Engineer | Python Developer)_
+_(B.Tech Student | Aspiring AI/ML Engineer | Python Developer)_
 
 ---
